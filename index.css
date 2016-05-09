@@ -1,8 +1,21 @@
 body {
 	margin: 0;
 	height: 100vh; /*La altura va a ser del 100% del dispositivo*/
+	color: white;
+	font-size: 32px;
+}
+
+h1 {
+	font-size: 1em;
 }
 
 .container{
-	background-color: red;
+	background-color: black;
+}
+
+.planetas{
+	border: 2px solid white;
+	text-align: center;
+	color: white;
+	min-width: 1em;
 }
