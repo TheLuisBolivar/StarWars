@@ -1,0 +1,8 @@
+body {
+	margin: 0;
+	height: 100vh; /*La altura va a ser del 100% del dispositivo*/
+}
+
+.container{
+	background-color: red;
+}
